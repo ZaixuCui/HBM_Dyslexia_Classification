@@ -4,7 +4,7 @@ A nested corss validation was applied, with inner cross validation for P thresho
 
 Ttest_SVM_2group_PSelection_SGE.m and Ttest_LR_2group_PSelection_SGE.m are main functions for LSVM and logistic regression, respectively.
 
-Copyright (c) Zaixu Cui, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, 2016.
+Copyright (c) Zaixu Cui, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University.
 Contact information: 
 zaixucui@gmail.com
 
