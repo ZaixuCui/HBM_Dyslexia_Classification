@@ -7,7 +7,7 @@ function Ttest_SVM_2group_PSelection_SGE(Subjects_Data, Subjects_Label, P_Value_
 %
 % Main Function:
 %    PSOM and LIBSVM are needed to run this program
-%    https://github.com/SIMEXP/psom
+%    http://psom.simexp-lab.org/
 %    https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 %
 % Subject_Data:
