@@ -3,8 +3,8 @@ Codes for nested linear svm &amp; logistic classifcation in HBM paper (http://on
 A nested corss validation was applied, with inner cross validation for P threshold selection, outer cross validation for classifier evaluation.
 Ttest_SVM_2group_PSelection_SGE.m and Ttest_LR_2group_PSelection_SGE.m are main functions for LSVM and logistic regression, respectively.
 
-Citing our related paper will be greatly appreciated if you use these codes.
-<br>&emsp; ```Zaixu Cui, Mengmeng Su, Liangjie Li, Hua Shu, Gaolang Gong; Individualized Prediction of Reading Comprehension Ability Using Gray Matter Volume, Cerebral Cortex, Volume 28, Issue 5, 1 May 2018, Pages 1656–1672, https://doi.org/10.1093/cercor/bhx061```
+Citing our paper will be greatly appreciated if you use these codes.
+<br>&emsp; ```Cui, Z. , Xia, Z. , Su, M. , Shu, H. and Gong, G. (2016), Disrupted white matter connectivity underlying developmental dyslexia: A machine learning approach. Hum. Brain Mapp., 37: 1443-1458. doi:10.1002/hbm.23112```
 
 LIBSVM (https://www.csie.ntu.edu.tw/~cjlin/libsvm/) is called for implementing support vector classification.  
 Weka (http://www.cs.waikato.ac.nz/ml/weka/) is used for implementing logistic regression.
