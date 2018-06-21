@@ -7,7 +7,7 @@ function Ttest_LR_2group_PSelection_SGE(Subjects_Data, Subjects_Label, P_Value_R
 %
 % Main Function:
 %    PSOM and Weka are needed to run this program
-%    https://github.com/SIMEXP/psom
+%    http://psom.simexp-lab.org/
 %    http://www.cs.waikato.ac.nz/ml/weka/
 %
 % Subject_Data:
